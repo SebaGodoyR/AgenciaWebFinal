@@ -279,6 +279,16 @@ src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonio
                     
 
  </SwiperSlide>
+ <SwiperSlide>  
+  <img                  
+                
+                  alt=""
+                  className="mmimm lazyload img-fluid"
+                  src="https://cdn.shopify.com/s/files/1/0610/5648/3573/files/AGENCIA_-_Testimonios_AN-19_1.webp?v=1727101518"                               
+                  ></img>
+                    
+
+ </SwiperSlide>
         
       </Swiper>
 
